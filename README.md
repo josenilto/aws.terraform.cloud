@@ -1,4 +1,4 @@
-# Infrastructure code for "unnamed"
+# Infrastructure code
 
 This repository contains Terraform configuration files which were automatically generated from blueprint created using [Cloudcraft](https://www.cloudcraft.co).
 
